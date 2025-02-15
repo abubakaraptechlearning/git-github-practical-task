@@ -36,7 +36,7 @@ li a:hover:not(.active) {
   }
   
   .dropdown {
-    position: relative;
+    position: absolute;
     display: inline-block;
   }
   
